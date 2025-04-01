@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:sqlserver://springboot98.database.windows.net:1433;database=curd;user=sharath@springboot98;password=Vattem@198;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+    url: jdbc:sqlserver://sqlserversb.database.windows.net:1433;database=db1;user=admin123@sqlserversb;password=pwazure#1;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
   jpa:
     hibernate:
